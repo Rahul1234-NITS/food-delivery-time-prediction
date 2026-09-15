@@ -9,7 +9,6 @@ Given details of a food delivery order (restaurant/customer location, weather, t
 ## Dataset
 
 - **45,593 rows**, 20 raw columns
-- Source: [add Kaggle/source link here]
 - Contains delivery person details (age, ratings), restaurant & delivery location coordinates, weather conditions, road traffic density, vehicle type, order type, and festival/city info
 
 ## Tech Stack
